@@ -23,7 +23,7 @@ function moveOutputPlugin() {
 }
 
 export default defineConfig({
-  // base 的寫法：
+  // base 的寫法：ss
   // base: '/Repository 的名稱/'
   base: "/Git-command-test/",
   plugins: [
